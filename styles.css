@@ -30,3 +30,17 @@ button {
     font-size: 18px;
     cursor: pointer;
 }
+
+/* Add these styles for the slideshow */
+.slideshow {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.slideshow-image {
+    display: none;
+    width: 100%;
+    height: auto;
+}
